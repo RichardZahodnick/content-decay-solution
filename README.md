@@ -1,4 +1,4 @@
-# Content decay action items
+# Content decay solution
 
 Give it a website. It finds the pages that are losing search rankings, says why, recommends a fix for each one,
 and writes the result as a work queue a person (or, later, another agent) can act on.
@@ -52,7 +52,7 @@ No account, no model and no network needed. Python 3.10 or later; nothing to ins
 
 ```
 git clone <the address of this repo>
-cd content-decay-action-items
+cd content-decay-solution
 python3 example/make_example.py
 open example/data/northside-hvac.example/report.html
 ```
