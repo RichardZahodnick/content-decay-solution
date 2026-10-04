@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Logins never belong in the repo. The DataForSEO login lives in ~/.openclaw/dataforseo.env, outside it.
+*.env
+.env*
+
+# Real sites' data and reports stay off GitHub. By default they are written to ~/openclaw/data, outside the repo;
+# this covers a data folder placed inside it.
+/data/
+# The example's output is built on your machine by example/make_example.py; it is not kept in the repo either.
+/example/data/
+run.lock
+spend_log.csv

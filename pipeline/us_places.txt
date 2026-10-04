@@ -1,0 +1,376 @@
+# US places used to spot location pages: cities and census places with 100,000 or more people, plus the 50 states and DC.
+# Source: GeoNames (geonames.org), licensed CC BY 4.0, via the geonamescache package. Columns: name to match, name to show, kind (tab-separated).
+# Left out on purpose because they are also everyday words or neighborhood names: astoria, bend, brandon, cary, centennial, chinatown, concord, corona, cypress, edison, enterprise, harlem, high point, independence, jamaica, kent, koreatown, meads, mobile, norman, ontario, orange, paradise, reading, surprise, tri cities, universal city, valencia, vista.
+# Smaller towns are not listed. A page for one of them is typed as an ordinary standing page, which is still never merged.
+new york city	New York	city
+new york	New York	city
+nyc	New York	city
+los angeles	Los Angeles	city
+brooklyn	Brooklyn	city
+chicago	Chicago	city
+queens	Queens	city
+houston	Houston	city
+phoenix	Phoenix	city
+philadelphia	Philadelphia	city
+san antonio	San Antonio	city
+manhattan	Manhattan	city
+san diego	San Diego	city
+the bronx	The Bronx	city
+dallas	Dallas	city
+jacksonville	Jacksonville	city
+fort worth	Fort Worth	city
+ft worth	Fort Worth	city
+san jose	San Jose	city
+austin	Austin	city
+columbus	Columbus	city
+charlotte	Charlotte	city
+indianapolis	Indianapolis	city
+san francisco	San Francisco	city
+seattle	Seattle	city
+denver	Denver	city
+washington	Washington	city
+washington dc	Washington	city
+nashville	Nashville	city
+oklahoma city	Oklahoma City	city
+el paso	El Paso	city
+boston	Boston	city
+portland	Portland	city
+detroit	Detroit	city
+las vegas	Las Vegas	city
+new south memphis	New South Memphis	city
+memphis	Memphis	city
+louisville	Louisville	city
+baltimore	Baltimore	city
+south boston	South Boston	city
+albuquerque	Albuquerque	city
+milwaukee	Milwaukee	city
+tucson	Tucson	city
+fresno	Fresno	city
+sacramento	Sacramento	city
+atlanta	Atlanta	city
+miami	Miami	city
+omaha	Omaha	city
+raleigh	Raleigh	city
+kansas city	Kansas City	city
+long beach	Long Beach	city
+mesa	Mesa	city
+staten island	Staten Island	city
+colorado springs	Colorado Springs	city
+virginia beach	Virginia Beach	city
+oakland	Oakland	city
+tampa	Tampa	city
+tulsa	Tulsa	city
+minneapolis	Minneapolis	city
+wichita	Wichita	city
+arlington	Arlington	city
+bakersfield	Bakersfield	city
+cleveland	Cleveland	city
+new orleans	New Orleans	city
+aurora	Aurora	city
+honolulu	Honolulu	city
+anaheim	Anaheim	city
+west raleigh	West Raleigh	city
+orlando	Orlando	city
+lexington	Lexington	city
+riverside	Riverside	city
+corpus christi	Corpus Christi	city
+lexington fayette	Lexington-Fayette	city
+cincinnati	Cincinnati	city
+santa ana	Santa Ana	city
+stockton	Stockton	city
+pittsburgh	Pittsburgh	city
+saint paul	Saint Paul	city
+st paul	Saint Paul	city
+lincoln	Lincoln	city
+anchorage	Anchorage	city
+henderson	Henderson	city
+greensboro	Greensboro	city
+plano	Plano	city
+newark	Newark	city
+madison	Madison	city
+st louis	St. Louis	city
+saint louis	St. Louis	city
+chula vista	Chula Vista	city
+toledo	Toledo	city
+jersey city	Jersey City	city
+reno	Reno	city
+chandler	Chandler	city
+fort wayne	Fort Wayne	city
+buffalo	Buffalo	city
+durham	Durham	city
+st petersburg	St. Petersburg	city
+saint petersburg	St. Petersburg	city
+irvine	Irvine	city
+laredo	Laredo	city
+lubbock	Lubbock	city
+gilbert	Gilbert	city
+winston salem	Winston-Salem	city
+glendale	Glendale	city
+norfolk	Norfolk	city
+hialeah	Hialeah	city
+garland	Garland	city
+scottsdale	Scottsdale	city
+irving	Irving	city
+boise	Boise	city
+chesapeake	Chesapeake	city
+north las vegas	North Las Vegas	city
+fremont	Fremont	city
+spokane	Spokane	city
+baton rouge	Baton Rouge	city
+upper west side	Upper West Side	city
+richmond	Richmond	city
+tacoma	Tacoma	city
+san bernardino	San Bernardino	city
+salt lake city	Salt Lake City	city
+huntsville	Huntsville	city
+des moines	Des Moines	city
+fontana	Fontana	city
+modesto	Modesto	city
+rochester	Rochester	city
+maryvale	Maryvale	city
+oxnard	Oxnard	city
+worcester	Worcester	city
+moreno valley	Moreno Valley	city
+little rock	Little Rock	city
+fayetteville	Fayetteville	city
+huntington beach	Huntington Beach	city
+tallahassee	Tallahassee	city
+yonkers	Yonkers	city
+amarillo	Amarillo	city
+akron	Akron	city
+vancouver	Vancouver	city
+birmingham	Birmingham	city
+montgomery	Montgomery	city
+grand rapids	Grand Rapids	city
+peoria	Peoria	city
+providence	Providence	city
+knoxville	Knoxville	city
+sunrise manor	Sunrise Manor	city
+grand prairie	Grand Prairie	city
+shreveport	Shreveport	city
+brownsville	Brownsville	city
+overland park	Overland Park	city
+newport news	Newport News	city
+fort lauderdale	Fort Lauderdale	city
+ft lauderdale	Fort Lauderdale	city
+santa clarita	Santa Clarita	city
+chattanooga	Chattanooga	city
+east flatbush	East Flatbush	city
+spring valley	Spring Valley	city
+santa rosa	Santa Rosa	city
+eugene	Eugene	city
+tempe	Tempe	city
+oceanside	Oceanside	city
+salem	Salem	city
+garden grove	Garden Grove	city
+rancho cucamonga	Rancho Cucamonga	city
+cape coral	Cape Coral	city
+east new york	East New York	city
+sioux falls	Sioux Falls	city
+fort collins	Fort Collins	city
+springfield	Springfield	city
+hollywood	Hollywood	city
+elk grove	Elk Grove	city
+clarksville	Clarksville	city
+pembroke pines	Pembroke Pines	city
+deer valley	Deer Valley	city
+murfreesboro	Murfreesboro	city
+port saint lucie	Port Saint Lucie	city
+mckinney	McKinney	city
+lancaster	Lancaster	city
+alexandria	Alexandria	city
+tempe junction	Tempe Junction	city
+palmdale	Palmdale	city
+hayward	Hayward	city
+salinas	Salinas	city
+sunnyvale	Sunnyvale	city
+frisco	Frisco	city
+east chattanooga	East Chattanooga	city
+pasadena	Pasadena	city
+jackson	Jackson	city
+pomona	Pomona	city
+washington heights	Washington Heights	city
+lakewood	Lakewood	city
+escondido	Escondido	city
+borough park	Borough Park	city
+rockford	Rockford	city
+east hampton	East Hampton	city
+joliet	Joliet	city
+savannah	Savannah	city
+paterson	Paterson	city
+bridgeport	Bridgeport	city
+naperville	Naperville	city
+gainesville	Gainesville	city
+mesquite	Mesquite	city
+syracuse	Syracuse	city
+torrance	Torrance	city
+metairie terrace	Metairie Terrace	city
+columbia	Columbia	city
+fullerton	Fullerton	city
+killeen	Killeen	city
+mcallen	McAllen	city
+bellevue	Bellevue	city
+metairie	Metairie	city
+hampton	Hampton	city
+miramar	Miramar	city
+van nuys	Van Nuys	city
+west valley city	West Valley City	city
+dayton	Dayton	city
+olathe	Olathe	city
+warren	Warren	city
+thornton	Thornton	city
+carrollton	Carrollton	city
+charleston	Charleston	city
+midland	Midland	city
+waco	Waco	city
+sterling heights	Sterling Heights	city
+denton	Denton	city
+cedar rapids	Cedar Rapids	city
+new haven	New Haven	city
+roseville	Roseville	city
+visalia	Visalia	city
+coral springs	Coral Springs	city
+thousand oaks	Thousand Oaks	city
+elizabeth	Elizabeth	city
+stamford	Stamford	city
+alhambra	Alhambra	city
+athens	Athens	city
+simi valley	Simi Valley	city
+east los angeles	East Los Angeles	city
+santa clara	Santa Clara	city
+sunset park	Sunset Park	city
+topeka	Topeka	city
+abilene	Abilene	city
+sheepshead bay	Sheepshead Bay	city
+amherst	Amherst	city
+victorville	Victorville	city
+vallejo	Vallejo	city
+lafayette	Lafayette	city
+chico	Chico	city
+north stamford	North Stamford	city
+hartford	Hartford	city
+berkeley	Berkeley	city
+west palm beach	West Palm Beach	city
+allentown	Allentown	city
+evansville	Evansville	city
+palm bay	Palm Bay	city
+fargo	Fargo	city
+clearwater	Clearwater	city
+billings	Billings	city
+ann arbor	Ann Arbor	city
+el monte	El Monte	city
+westminster	Westminster	city
+round rock	Round Rock	city
+wilmington	Wilmington	city
+east harlem	East Harlem	city
+arvada	Arvada	city
+beaumont	Beaumont	city
+provo	Provo	city
+carlsbad	Carlsbad	city
+odessa	Odessa	city
+downey	Downey	city
+elmhurst	Elmhurst	city
+costa mesa	Costa Mesa	city
+miami gardens	Miami Gardens	city
+north peoria	North Peoria	city
+fairfield	Fairfield	city
+lansing	Lansing	city
+bushwick	Bushwick	city
+gravesend	Gravesend	city
+elgin	Elgin	city
+west jordan	West Jordan	city
+inglewood	Inglewood	city
+tuscaloosa	Tuscaloosa	city
+richardson	Richardson	city
+lowell	Lowell	city
+east independence	East Independence	city
+gresham	Gresham	city
+antioch	Antioch	city
+cambridge	Cambridge	city
+manchester	Manchester	city
+temecula	Temecula	city
+murrieta	Murrieta	city
+pueblo	Pueblo	city
+pearland	Pearland	city
+waterbury	Waterbury	city
+greeley	Greeley	city
+west covina	West Covina	city
+north charleston	North Charleston	city
+everett	Everett	city
+college station	College Station	city
+pompano beach	Pompano Beach	city
+south fulton	South Fulton	city
+norwalk	Norwalk	city
+boulder	Boulder	city
+broken arrow	Broken Arrow	city
+daly city	Daly City	city
+sandy springs	Sandy Springs	city
+burbank	Burbank	city
+green bay	Green Bay	city
+santa maria	Santa Maria	city
+wichita falls	Wichita Falls	city
+lakeland	Lakeland	city
+clovis	Clovis	city
+lewisville	Lewisville	city
+tyler	Tyler	city
+el cajon	El Cajon	city
+san mateo	San Mateo	city
+rialto	Rialto	city
+davenport	Davenport	city
+hillsboro	Hillsboro	city
+las cruces	Las Cruces	city
+south bend	South Bend	city
+albany	Albany	city
+new bedford	New Bedford	city
+davie	Davie	city
+renton	Renton	city
+roanoke	Roanoke	city
+alaska	Alaska	state
+alabama	Alabama	state
+arkansas	Arkansas	state
+arizona	Arizona	state
+california	California	state
+colorado	Colorado	state
+connecticut	Connecticut	state
+district of columbia	District of Columbia	state
+delaware	Delaware	state
+florida	Florida	state
+georgia	Georgia	state
+hawaii	Hawaii	state
+iowa	Iowa	state
+idaho	Idaho	state
+illinois	Illinois	state
+indiana	Indiana	state
+kansas	Kansas	state
+kentucky	Kentucky	state
+louisiana	Louisiana	state
+massachusetts	Massachusetts	state
+maryland	Maryland	state
+maine	Maine	state
+michigan	Michigan	state
+minnesota	Minnesota	state
+missouri	Missouri	state
+mississippi	Mississippi	state
+montana	Montana	state
+north carolina	North Carolina	state
+north dakota	North Dakota	state
+nebraska	Nebraska	state
+new hampshire	New Hampshire	state
+new jersey	New Jersey	state
+new mexico	New Mexico	state
+nevada	Nevada	state
+ohio	Ohio	state
+oklahoma	Oklahoma	state
+oregon	Oregon	state
+pennsylvania	Pennsylvania	state
+rhode island	Rhode Island	state
+south carolina	South Carolina	state
+south dakota	South Dakota	state
+tennessee	Tennessee	state
+texas	Texas	state
+utah	Utah	state
+virginia	Virginia	state
+vermont	Vermont	state
+wisconsin	Wisconsin	state
+west virginia	West Virginia	state
+wyoming	Wyoming	state
